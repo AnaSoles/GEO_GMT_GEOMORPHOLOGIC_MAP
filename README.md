@@ -1,1 +1,11 @@
-# GEO_GMT_GEOMORPHOLOGIC_MAP
+# TITICACA LAKE GEOMORPHOLOGIC MAP
+
+Using GMT and xyz data
+
+It is attached:
+- XYZ data
+- CPT palette colors
+- Script
+- Geographic Province Peru xyz data
+
+![Untitled 28](https://user-images.githubusercontent.com/52880203/110213982-bf0c7b00-7ea2-11eb-9916-9e13acd7c7c4.jpg)
