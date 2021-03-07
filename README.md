@@ -1,7 +1,9 @@
 # TITICACA LAKE GEOMORPHOLOGIC MAP
 
-Using GMT and xyz data
+Using Generic Mapping Tool (GMT) and topographic XYZ ASCII data
 
+Topography data: https://topex.ucsd.edu/cgi-bin/get_data.cgi
+GMT tool: https://www.generic-mapping-tools.org/
 It is attached:
 - XYZ data
 - CPT palette colors
